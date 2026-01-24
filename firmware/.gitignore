@@ -1,4 +1,10 @@
+# Private local config (DO NOT COMMIT)
 firmware/config.h
+firmware/ir_codes.h
+
+# Build/editor stuff
 .pio/
 .vscode/
 *.log
+.DS_Store
+Thumbs.db
