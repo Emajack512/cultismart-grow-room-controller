@@ -1,0 +1,4 @@
+firmware/config.h
+.pio/
+.vscode/
+*.log
